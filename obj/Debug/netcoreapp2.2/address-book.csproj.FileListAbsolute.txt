@@ -1,0 +1,11 @@
+/Users/kirren/workspace/csharp/exercises/address-book/obj/Debug/netcoreapp2.2/address-book.csprojAssemblyReference.cache
+/Users/kirren/workspace/csharp/exercises/address-book/obj/Debug/netcoreapp2.2/address-book.csproj.CoreCompileInputs.cache
+/Users/kirren/workspace/csharp/exercises/address-book/obj/Debug/netcoreapp2.2/address-book.AssemblyInfoInputs.cache
+/Users/kirren/workspace/csharp/exercises/address-book/obj/Debug/netcoreapp2.2/address-book.AssemblyInfo.cs
+/Users/kirren/workspace/csharp/exercises/address-book/bin/Debug/netcoreapp2.2/address-book.deps.json
+/Users/kirren/workspace/csharp/exercises/address-book/bin/Debug/netcoreapp2.2/address-book.runtimeconfig.json
+/Users/kirren/workspace/csharp/exercises/address-book/bin/Debug/netcoreapp2.2/address-book.runtimeconfig.dev.json
+/Users/kirren/workspace/csharp/exercises/address-book/bin/Debug/netcoreapp2.2/address-book.dll
+/Users/kirren/workspace/csharp/exercises/address-book/bin/Debug/netcoreapp2.2/address-book.pdb
+/Users/kirren/workspace/csharp/exercises/address-book/obj/Debug/netcoreapp2.2/address-book.dll
+/Users/kirren/workspace/csharp/exercises/address-book/obj/Debug/netcoreapp2.2/address-book.pdb
